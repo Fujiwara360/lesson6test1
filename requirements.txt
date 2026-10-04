@@ -1,2 +1,2 @@
 # requirements.txt
-# 外部ライブラリ不使用のため空（Renderのビルドコマンド指定用ダミー）
+streamlit
